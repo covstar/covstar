@@ -21,7 +21,7 @@ Welcome to my frontend developer portfolio! I specialize in creating visually ap
 
 ## Skills
 - Proficient in HTML, CSS, and JavaScript
-- Experience with popular frontend frameworks and libraries such as React, Bootstrap, Tailwindcss and Vue.js
+- Experience with popular frontend frameworks and libraries such as jQuery, React, Bootstrap, Tailwindcss and Vue.js
 - Strong understanding of responsive design and cross-browser compatibility
 - Familiarity with modern web development tools such as Webpack and Babel
 - Experience with version control using Git
