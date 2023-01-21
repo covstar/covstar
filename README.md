@@ -42,7 +42,7 @@ Welcome to my frontend developer portfolio! I specialize in crafting visually st
 - 👯 I’m looking to collaborate with you on your new project.
 
 ## Contact
-If you're interested in working with me or have any questions, please don't hesitate to contact me via [email](mailto:myemail@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/username/)
+If you're interested in working with me or have any questions, please don't hesitate to contact me via [email](mailto:okechukwuvictor093@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/okechukwu-victor/)
 
 Please find my resume on the link [here](https://drive.google.com/file/d/1S5Z5d5S5f5d5S5F5d5S5f5d5S5F5d5S5F/view?usp=sharing)
 
