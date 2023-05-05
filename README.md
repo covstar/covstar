@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Backend development, React Native.**
 
-- 👨‍💻 All of my projects are available at [covstar-porfolio.com](covstar-porfolio.com)
+- 👨‍💻 All of my projects are available here in my [Portfolio](covstar.github.io/Portfolio)
 
 - 💬 Ask me about **HTML, CSS AND JQUERY**
 
