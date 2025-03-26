@@ -10,13 +10,11 @@
 
 <p align="left"> <a href="https://twitter.com/covstar_" target="blank"><img src="https://img.shields.io/twitter/follow/covstar_?logo=twitter&style=for-the-badge" alt="covstar_" /></a> </p>
 
-- 🔭 I’m currently working on **Todo-List-App**
-
-- 🌱 I’m currently learning **Backend development, React Native.**
+- 🌱 I’m currently learning **, React Native.**
 
 - 👨‍💻 All of my projects are available here in my [Portfolio](https://covstar.onrender.com)
 
-- 💬 Ask me about **HTML, CSS AND JQUERY**
+- 💬 Ask me about **REACT(NEXTJS)**
 
 - 📫 How to reach me **okechukwuvictor093@gmail.com**
 
