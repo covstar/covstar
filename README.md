@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codex-dev" alt="codex-dev" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/codex_dev" target="blank"><img src="https://img.shields.io/twitter/follow/codex_dev?logo=twitter&style=for-the-badge" alt="codex_dev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/covstar_" target="blank"><img src="https://img.shields.io/twitter/follow/codex_dev?logo=twitter&style=for-the-badge" alt="covstar_" /></a> </p>
 
 - 🚀 I’m currently building **high-performance Next.js applications**
 
