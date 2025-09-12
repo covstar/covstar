@@ -1,5 +1,5 @@
 <!-- Hero -->
-<h1 align="center">Hey, I'm Victor Okechukwu — <em>CodeX</em> 👋</h1>
+<h1 align="center">Hey, I'm Victor Okechukwu — <em>Covstar</em> 👋</h1>
 <p align="center">
   Web Developer • React/Next.js • WordPress • Tailwind • Supabase • MUI • SEO
 </p>
@@ -47,7 +47,7 @@
 - 💼 Portfolio: **https://vicryptech.com**
 - ✉️ Email: **okechukwuvictor093@gmail.com**
 - 🐦 X: **@covstar_**
-- 🔗 LinkedIn: **/in/okechukwu-victor**
+- 🔗 LinkedIn: **/in/covstar**
 
 ---
 
