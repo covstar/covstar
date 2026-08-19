@@ -23,7 +23,7 @@
 - ⚡ High-performance **Next.js** apps (pages router) with **Supabase** backends.
 - 💳 Seamless **Paystack** integrations and production-grade auth/cron flows.
 - 🧩 Reusable UI systems with **Tailwind + MUI** and accessible patterns.
-- 🤖 AI-powered social scheduling (ChronolyteAI) with multi-platform posting.
+- 🤖 AI-powered social scheduling (Chronyte) with multi-platform posting.
 
 ### Core stack
 <p>
